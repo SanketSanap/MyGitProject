@@ -1,1 +1,10 @@
-This us File 1 to create Git Demo
+	This us File 1 to create Git Demo
+
+closs Myclass{
+public static void main(String []args){
+
+out("Hello ");
+}
+
+
+}
