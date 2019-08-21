@@ -1,9 +1,9 @@
 	This us File 1 to create Git Demo
 
-class Myclass{
+class MyClass{
 public static void main(String []args){
 
-System.out.println ("Hello  World");
+	System.out.println ("Hello  World");
 }
 
 
