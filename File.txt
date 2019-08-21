@@ -3,7 +3,7 @@
 closs Myclass{
 public static void main(String []args){
 
-out("Hello ");
+System.out.println("Hello ");
 }
 
 
