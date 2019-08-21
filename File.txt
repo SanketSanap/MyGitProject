@@ -1,6 +1,6 @@
 	This us File 1 to create Git Demo
 
-closs Myclass{
+class Myclass{
 public static void main(String []args){
 
 System.out.println ("Hello  World");
