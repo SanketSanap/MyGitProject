@@ -2,12 +2,12 @@
 
 class MyClass{
 
-	 private static void mymethod(String name){
+	 private void mymethod1(String name){
 
 		System.out.println (name);
 	}
 
-	public static void mymethod(){
+	public static void mymethod2(){
 		System.out.println("Welcome Git");
 
 	}
@@ -17,7 +17,8 @@ class MyClass{
 	
 	public static void main(String []args){
 
-
+	MyClass obj=new MyClass();
+	obj.mymethod1("Welcome Git");
 		
 
 	
