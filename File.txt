@@ -2,13 +2,14 @@
 
 class MyClass{
 
-	void mymethod(){
-		System.out.println ("Hello  World");
+	 private void mymethod(String name){
+		System.out.println (name);
 	}
 	
-public static void main(String []args){
+	public static void main(String []args){
 
-	
+
+		
 
 	
 }
