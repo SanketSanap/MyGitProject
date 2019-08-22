@@ -2,9 +2,18 @@
 
 class MyClass{
 
-	 private void mymethod(String name){
+	 private static void mymethod(String name){
+
 		System.out.println (name);
 	}
+
+	public static void mymethod(){
+		System.out.println("Welcome Git");
+
+	}
+
+
+	
 	
 	public static void main(String []args){
 
